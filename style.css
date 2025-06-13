@@ -1,0 +1,42 @@
+body {
+  background-image: url('https://img.freepik.com/vetores-gratis/vetor-de-fundo-de-borda-de-coracao-vermelho_53876-177415.jpg?semt=ais_hybrid&w=740');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+  color: white;
+}
+
+    h1 {
+      font-family:Brush Script MT;
+      text-align: center;
+      font-size: 80px;   
+      color: #770202;
+     
+    }
+
+    p {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        font-size: 50px;
+        color: #770202;
+        font-weight: lighter;
+    }
+
+    .botao {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 27px;
+      background-color: #450074;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 22px;
+      transition: background-color 0.3s ease;
+    }
+
+    .botoa:hover {
+       background-color: #005fa3;
+    }
